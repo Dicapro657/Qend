@@ -1,6 +1,6 @@
 
-import { YOUR_SECRET_CODE } from '../utils/accessControl';
+import { internationel777Aa } from '../utils/accessControl';
 
 export function checkAccess(userInputCode) {
-    return userInputCode === YOUR_SECRET_CODE;
+    return userInputCode === internationel777Aa;
 }
